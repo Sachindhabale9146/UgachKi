@@ -8,13 +8,13 @@ public class Swap_Two_Number {
 		
 		int a,b,c;
 		
-		Scanner sc = new Scanner(System.in);
+		//Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter Value a=");
-		a=sc.nextInt();
+		a=2    //sc.nextInt();
 		
 		System.out.println("Enter Value b=");
-		b=sc.nextInt();
+		b=5    //sc.nextInt();
 		
 		System.out.println("a="+a +" "+ "b="+b);
 		c=a;
