@@ -11,10 +11,10 @@ public class Swap_Two_Number {
 		//Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter Value a=");
-		a=2    //sc.nextInt();
+		a=2;    //sc.nextInt();
 		
 		System.out.println("Enter Value b=");
-		b=5    //sc.nextInt();
+		b=5;    //sc.nextInt();
 		
 		System.out.println("a="+a +" "+ "b="+b);
 		c=a;
